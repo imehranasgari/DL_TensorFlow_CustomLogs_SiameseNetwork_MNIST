@@ -101,4 +101,4 @@ While this implementation was on a simple dataset like MNIST, the principles lea
 
 ## 📄 License
 
-This project is licensed under the MIT License – see the `LICENSE` file for details.
+This project is licensed under the Apache 2.0 License – see the `LICENSE` file for details.
